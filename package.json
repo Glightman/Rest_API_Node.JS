@@ -1,0 +1,24 @@
+{
+  "name": "rest_api_node.js",
+  "version": "1.0.0",
+  "description": "Rest API com back end em Node.JS | Express | JWT Authentication |  banco de dados MongoDB | front end em Next.JS",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glightman/Rest_API_Node.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glightman/Rest_API_Node.JS/issues"
+  },
+  "homepage": "https://github.com/Glightman/Rest_API_Node.JS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
